@@ -1,4 +1,4 @@
-# SEAssignment (Full scaffold)
+Edge Detection Viewer
 
 This project contains a minimal working scaffold:
 - Camera2 (YUV_420_888) -> JNI -> OpenCV C++ (Canny) -> returns RGBA -> OpenGL renderer displays texture
