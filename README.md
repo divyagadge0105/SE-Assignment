@@ -1,12 +1,15 @@
 This project is an Android application built in Kotlin that uses OpenGL, Camera2, and JNI (C++) 
 for rendering and native processing. 
 Features 
-•         Android Kotlin + OpenGL ES rendering 
-•       Real-time camera feed using Camera2 API 
-•        Native C++ integration via JNI 
-•        Works on API 21+ 
-•    Modular structure (Java + C++ + Web as provided) 
+•  Android Kotlin + OpenGL ES rendering 
+•  Real-time camera feed using Camera2 API 
+•  Native C++ integration via JNI 
+•  Works on API 21+ 
+•  Modular structure (Java + C++ + Web as provided) 
+
+
 Project Structure 
+
 SEAssignment/ 
 │── app/ 
 │   └── src/main/    
@@ -26,13 +29,15 @@ SEAssignment/
 │── build.gradle 
 │── settings.gradle 
 │── README.md 
-Screenshots 
+
 App installed on emulator 
 Error! Filename not specified. 
 App icon on the launcher screen 
 Error! Filename not specified. 
 App launching screen (OpenGL Surface starting) 
 Error! Filename not specified. 
+
+
 How to Run 
 1. Open the project in Android Studio 
 2. Let Gradle sync 
