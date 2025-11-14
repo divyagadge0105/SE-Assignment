@@ -9,17 +9,7 @@ Features
 Project Structure 
 SEAssignment/ 
 │── app/ 
-│   └── src/main/ 
-│       
-│       
-│       
-│       
-│       
-│       
-│       
-│       
-│       
-│       
+│   └── src/main/    
 ├── java/com/se/assignment/ 
 │     ├── Camera2Controller.kt 
 │     ├── GLRenderer.kt 
